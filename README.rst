@@ -3,7 +3,7 @@ Impacts of ozone air pollution and temperature extremes on vegetation density an
 
 Powerpoint Link: https://docs.google.com/presentation/d/1LlvFID2wk7_CYCp64K-ycGyXnrSC7ujEFYfPSSaUTM4/edit?usp=sharing
 
-.. image:: research_topic.png
+.. image:: research_topic_ozone.png
     :width: 200px
     :align: center
 
